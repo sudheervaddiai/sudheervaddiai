@@ -2,7 +2,7 @@
 - 👀 I’m on a mission to start an Agentic AI based startup
 - 🌱 I’m currently learning building AI agents
 - 💞️ I’m looking to collaborate on building AI agents
-- 📫 How to reach me ..sudheervaddi.ai@gmail.com
+- 📫 How to reach me  sudheervaddi.ai@gmail.com
 - 😄 Pronouns: ... He/him
 - ⚡ Fun fact: ...
 
